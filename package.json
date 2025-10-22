@@ -1,0 +1,32 @@
+{
+  "name": "my-space",
+  "version": "1.0.0",
+  "description": "Hi!!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cw-exe/my-space.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cw-exe/my-space/issues"
+  },
+  "homepage": "https://github.com/cw-exe/my-space#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.15",
+    "tailwindcss": "^4.1.15",
+    "vite": "^7.1.11"
+  }
+}
